@@ -1,7 +1,7 @@
-                                <h1>Privacy Policy</h1>
+ <h1>Privacy Policy</h1>
 
 
-<p>Effective date: December 08, 2018</p>
+<p>Effective date: December 01, 2018</p>
 
 
 <p>WallFlash ("us", "we", or "our") operates the WallFlash mobile application (the "Service").</p>
